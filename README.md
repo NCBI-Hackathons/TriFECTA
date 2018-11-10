@@ -1,8 +1,8 @@
 # TriFECTA
 
-## TRIal -  Fantastical Emporium of Clinical Trial Assortments
+## Tri - Fantastical Emporium of Clinical Trial Assortments
 
-[logo]: LogoTriFECTA.jpg
+![alt text](https://github.com/NCBI-Hackathons/TriFECTA/LogoTriFECTA.jpg)
 
 ## API Documentation
 
