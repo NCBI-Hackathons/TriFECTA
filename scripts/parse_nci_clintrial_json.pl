@@ -19,11 +19,13 @@ while (my $line = <DIAG>) {
     push @{$otree{$oncocode}}, $diagnosis;
 }
 open OUT, ">clinicaltrialdb_bygene.txt" or die $!;
-print OUT join("\t",'NCT','Phase','Conditions','Drugs','BriefTitle','OfficialTrial','Oncotree Codes'),"\n";
+print OUT join("\t",'NCT','Gene','Phase','Conditions','Drugs','BriefTitle','OfficialTrial','Oncotree Codes'),"\n";
 
 my @jsonfiles = `ls /project/hackathon/hackers11/shared/byGeneXML/*.xml`;
 chomp(@jsonfiles);
 foreach $jfile (@jsonfiles) {
+    my @path = split(/\//,$jfile);
+    $gene = split(/\./,$path[-1]);
     my $json_string = `cat $jfile`;
     $json_hash = decode_json($json_string);
     %hash = %{$json_hash};
@@ -52,7 +54,7 @@ foreach $jfile (@jsonfiles) {
       }
 	my @oncotreecodes = keys %oncotree;
 	
-	print OUT join("\t",$thash{nct_id},$thash{'phase'}{'phase'},join("|",@conditions),
+	print OUT join("\t",$thash{nct_id},$gene,$thash{'phase'}{'phase'},join("|",@conditions),
 		       '',$thash{'brief_title'},$thash{'official_title'},
 		       join("|",keys %oncotree)),"\n";
     }
