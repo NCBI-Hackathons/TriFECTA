@@ -2,7 +2,7 @@
 
 ## Tri - Fantastical Emporium of Clinical Trial Assortments
 
-![alt text](https://github.com/NCBI-Hackathons/TriFECTA/LogoTriFECTA.jpg)
+![alt text](LogoTriFECTA.jpg)
 
 ## API Documentation
 
