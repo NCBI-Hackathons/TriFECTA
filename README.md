@@ -2,7 +2,7 @@
 
 ## Tri - Fantastical Emporium of Clinical Trial Assortments
 
-![alt text](LogoTriFECTA.jpg){ width=50% }
+![alt text](LogoTriFECTA.jpg){ width=150 }
 
 ## API Documentation
 
