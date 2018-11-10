@@ -1,0 +1,1615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 03, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02411448</url>
+  </required_header>
+  <id_info>
+    <org_study_id>15540</org_study_id>
+    <secondary_id>I4T-MC-JVCY</secondary_id>
+    <secondary_id>2014-004824-22</secondary_id>
+    <nct_id>NCT02411448</nct_id>
+  </id_info>
+  <brief_title>A Study of Ramucirumab (LY3009806) in Combination With Erlotinib in Participants With EGFR Mutation-Positive Metastatic NSCLC</brief_title>
+  <acronym>RELAY</acronym>
+  <official_title>A Multicenter, Randomized, Double-Blind Study of Erlotinib in Combination With Ramucirumab or Placebo in Previously Untreated Patients With EGFR Mutation-Positive Metastatic Non-Small Cell Lung Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eli Lilly and Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Eli Lilly and Company</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main purpose of this study is to evaluate the safety and efficacy of ramucirumab in
+      combination with erlotinib as compared to placebo in combination with erlotinib in
+      participants with stage IV non small cell lung cancer (NSCLC) harboring an activating
+      epidermal growth factor receptor (EGFR) mutation (Del19 and L858R). Safety and tolerability
+      of ramucirumab in combination with erlotinib will be assessed in the first portion (Part A)
+      before proceeding to the second portion of this study (Part B).
+
+      The purpose of Part C is to determine the efficacy and safety of ramucirumab in combination
+      with gefitinib in previously untreated East Asian participants with EGFR mutation-positive
+      metastatic NSCLC and of ramucirumab in combination with osimertinib in those participants
+      whose disease progressed on ramucirumab and gefitinib and that have T790M - positive
+      metastatic NSCLC.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 6, 2015</start_date>
+  <completion_date type="Anticipated">August 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 22, 2018</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression Free Survival (PFS)</measure>
+    <time_frame>Randomization to Measured Progressive Disease or Death from Any Cause (Estimated as 37 Months)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with One or More Drug Related Adverse Events (AEs) or Any Serious AEs</measure>
+    <time_frame>Cycle 1 Day 1 through End of Study (Estimated as 38 Months)</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Randomization to Date of Death from Any Cause (Estimated as 47 Months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate (ORR)</measure>
+    <time_frame>Randomization to Disease Progression (Estimated as 37 Months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate (DCR)</measure>
+    <time_frame>Randomization to Disease Progression (Estimated as 37 Months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (DoR)</measure>
+    <time_frame>Date of Complete Response (CR) or Partial Response (PR) to Date of Objective Disease Progression or Death Due to Any Cause (Estimated as 37 Months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics (PK): Minimum Concentration (CMIN) of Ramucirumab</measure>
+    <time_frame>Cycle 2 Predose through Cycle 14 Predose (Estimated as 28 Months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with Anti-Ramucirumab Antibodies</measure>
+    <time_frame>Cycle 1 Predose through Follow-up (Estimated as 38 Months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline on the Lung Cancer Symptom Scale (LCSS)</measure>
+    <time_frame>Baseline, End of Study (Estimated as 37 Months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline on the EuroQol 5-Dimension, 5-Level Questionnaire (EQ-5D-5L)</measure>
+    <time_frame>Baseline, End of Study (Estimated as 37 Months)</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">543</enrollment>
+  <condition>Metastatic Non-Small Cell Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>Ramucirumab + Erlotinib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>(Part A) 10 milligrams per kilogram (mg/kg) ramucirumab every 2 weeks intravenously (IV) in combination with 150 mg erlotinib daily orally. Participants may continue to receive treatment until discontinuation criteria are met.
+(Part B) 10 mg/kg ramucirumab every 2 weeks IV in combination with 150 mg erlotinib daily orally . Participants may continue to receive treatment until discontinuation criteria are met.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo + Erlotinib</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>(Part A) Not Applicable
+(Part B) Placebo every 2 weeks IV in combination with 150 mg erlotinib daily orally. Participants may continue to receive treatment until discontinuation criteria are met.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>(Part C) Ramucirumab + Gefitinib or Osimertinib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>(Period 1) Ramucirumab given IV and gefitinib given orally.
+(Period 2) Ramucirumab given IV and osimertinib given orally.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ramucirumab</intervention_name>
+    <description>Administered IV.</description>
+    <arm_group_label>Ramucirumab + Erlotinib</arm_group_label>
+    <arm_group_label>(Part C) Ramucirumab + Gefitinib or Osimertinib</arm_group_label>
+    <other_name>LY3009806</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Administered IV.</description>
+    <arm_group_label>Placebo + Erlotinib</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Erlotinib</intervention_name>
+    <description>Administered orally.</description>
+    <arm_group_label>Ramucirumab + Erlotinib</arm_group_label>
+    <arm_group_label>Placebo + Erlotinib</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Gefitinib</intervention_name>
+    <description>Administered orally.</description>
+    <arm_group_label>(Part C) Ramucirumab + Gefitinib or Osimertinib</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Osimertinib</intervention_name>
+    <description>Administered orally.</description>
+    <arm_group_label>(Part C) Ramucirumab + Gefitinib or Osimertinib</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Cytologically or histologically confirmed diagnosis of Stage IV NSCLC as defined by
+             the American Joint Committee on Cancer Staging Criteria for Lung Cancer (AJCC 7th
+             edition 2009).
+
+          -  Eligible for first-line treatment with erlotinib based on documented evidence of tumor
+             harboring an activating EGFR mutation [exon 19 deletion or exon 21 (L858R)
+             substitution mutation].
+
+          -  Mandatory provision of adequate archived stage IV NSCLC tissue samples or tissue
+             samples other than stage IV NSCLC may be acceptable (optional for part C).
+
+          -  At least one measurable lesion.
+
+          -  Life expectancy of at least 3 months.
+
+        Exclusion Criteria:
+
+          -  Known T790M EGFR mutation (not applicable for Part C Period 2).
+
+          -  Known leptomeningeal carcinomatosis, uncontrolled/unstable spinal cord compression, or
+             brain metastases.
+
+          -  Serious illness or medical condition.
+
+          -  Ongoing treatment with CYP3A4 inducers or strong inhibitors.
+
+          -  Ongoing therapy with nonsteroidal anti-inflammatory drugs for more than 2 months.
+
+          -  History of gross hemoptysis.
+
+          -  Significant bleeding disorders.
+
+          -  Radiologically documented evidence of major blood vessel invasion or encasement by
+             cancer.
+
+          -  Radiographic evidence of intratumor cavitation.
+
+          -  History of gastrointestinal perforation within last 6 months.
+
+          -  History of bowel obstruction, inflammatory enteropathy or extensive intestinal
+             resection.
+
+          -  History of any arterial thrombotic event within 6 months prior to enrollment.
+
+          -  The participant has any known significant ophthalmologic abnormalities of the surface
+             of the eye.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)</last_name>
+    <role>Study Director</role>
+    <affiliation>Eli Lilly and Company</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>There may be multiple sites in this clinical trial. 1-877-CTLILLY (1-877-285-4559) or</last_name>
+    <phone>1-317-615-4559</phone>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>TRIO - Translational Research in Oncology-US, Inc.</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Pharmatech Oncology Inc</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Queen's Medical Center</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96813</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Center of Kansas</name>
+      <address>
+        <city>Wichita</city>
+        <state>Kansas</state>
+        <zip>67214</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Queens Medical Associates</name>
+      <address>
+        <city>Fresh Meadows</city>
+        <state>New York</state>
+        <zip>11366</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Levine Cancer Institute- Carolinas Medical Center</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. Charles Health System</name>
+      <address>
+        <city>Bend</city>
+        <state>Oregon</state>
+        <zip>97701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Allegheny General Hospital</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cross Cancer Institute</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <zip>T6G 1Z2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Albert Michallon</name>
+      <address>
+        <city>Grenoble</city>
+        <state>Cedex 9</state>
+        <zip>38049</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU de Lille-Hôpital Albert Calmette</name>
+      <address>
+        <city>Lille</city>
+        <zip>59037</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centre hospitalier universitaire Lapeyronie</name>
+      <address>
+        <city>Montpellier Cedex 5</city>
+        <zip>34295</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>APHP-Hôpital Européen Georges Pompidou</name>
+      <address>
+        <city>Paris</city>
+        <zip>75015</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHU la Miletrie</name>
+      <address>
+        <city>Poitiers</city>
+        <zip>86021</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Klinik Schillerhöhe</name>
+      <address>
+        <city>Gerlingen</city>
+        <state>Baden-Württemberg</state>
+        <zip>70839</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Thoraxklinik Heidelberg gGmbH</name>
+      <address>
+        <city>Heidelberg</city>
+        <state>Baden-Württemberg</state>
+        <zip>69126</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kliniken der Stadt Köln gGmbH Klinikum Köln-Merheim</name>
+      <address>
+        <city>Köln</city>
+        <state>Nordrhein-Westfalen</state>
+        <zip>51109</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Städtisches Krankenhaus Martha-Maria Halle-Dölau gGmbH</name>
+      <address>
+        <city>Halle (Saale)</city>
+        <state>Sachsen-Anhalt</state>
+        <zip>06120</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum Chemnitz GmbH</name>
+      <address>
+        <city>Chemnitz</city>
+        <state>Sachsen</state>
+        <zip>09113</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>LungenClinic Grosshansdorf</name>
+      <address>
+        <city>Großhansdorf</city>
+        <state>Schleswig-Holstein</state>
+        <zip>22927</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>HELIOS Klinikum Emil von Behring</name>
+      <address>
+        <city>Berlin</city>
+        <zip>14165</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University General Hospital of Patras</name>
+      <address>
+        <city>Patras</city>
+        <state>Achaia</state>
+        <zip>26504</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>302610999791</phone>
+    </contact>
+    <investigator>
+      <last_name>Haralabos Kalofonos</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>SOTIRIA General Hospital</name>
+      <address>
+        <city>Athens</city>
+        <zip>11527</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>302107700220</phone>
+    </contact>
+    <investigator>
+      <last_name>Konstantinos N Syrigos</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Queen Mary Hospital</name>
+      <address>
+        <city>Hong Kong</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Queen Elizabeth Hospital</name>
+      <address>
+        <city>Kowloon</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda per l'Assistenza Sanitaria n°5 &quot;Friuli Occidentale&quot;</name>
+      <address>
+        <city>Pordenone</city>
+        <state>PD</state>
+        <zip>33170</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero - Universitaria S. Luigi Gonzaga</name>
+      <address>
+        <city>Orbassano</city>
+        <state>Torino</state>
+        <zip>10043</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IRCCS Ospedale Oncologico di Bari</name>
+      <address>
+        <city>Bari</city>
+        <zip>70124</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinico S. Orsola Malpighi - Universita di Bologna</name>
+      <address>
+        <city>Bologna</city>
+        <zip>40138</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IRCCS Ospedale San Raffaele</name>
+      <address>
+        <city>Milano</city>
+        <zip>20132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Istituto Oncologico Veneto</name>
+      <address>
+        <city>Padova</city>
+        <zip>35128</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nagoya Medical Center</name>
+      <address>
+        <city>Nagoya</city>
+        <state>Aichi</state>
+        <zip>460-0001</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>81120360605</phone>
+    </contact>
+    <investigator>
+      <last_name>HIDEO SAKA</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Aichi Cancer Center Hospital</name>
+      <address>
+        <city>Nagoya</city>
+        <state>Aichi</state>
+        <zip>464-8681</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Cancer Center Hospital East</name>
+      <address>
+        <city>Kashiwa</city>
+        <state>Chiba</state>
+        <zip>277 8577</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Hospital Organization Shikoku Cancer Center</name>
+      <address>
+        <city>Matsuyama</city>
+        <state>Ehime</state>
+        <zip>791-0280</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kurume University Hospital</name>
+      <address>
+        <city>Kurume</city>
+        <state>Fukuoka</state>
+        <zip>830-0011</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Hospital Organization Asahikawa Medical Center</name>
+      <address>
+        <city>Asahikawa</city>
+        <state>Hokkaido</state>
+        <zip>070-8644</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hyogo Cancer Center</name>
+      <address>
+        <city>Akashi</city>
+        <state>Hyogo</state>
+        <zip>673-8558</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hyogo Prefectual Amagasaki General Medical Center</name>
+      <address>
+        <city>Amagashiki City</city>
+        <state>Hyogo</state>
+        <zip>6608550</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Hospital Organization Himeji Medical Center</name>
+      <address>
+        <city>Himeji</city>
+        <state>Hyogo</state>
+        <zip>670-8520</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Foundation for Biomedical Research and innovation</name>
+      <address>
+        <city>Kobe</city>
+        <state>Hyogo</state>
+        <zip>650-0047</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kobe City Medical Center General Hospital</name>
+      <address>
+        <city>Kobe</city>
+        <state>Hyogo</state>
+        <zip>650-0047</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kanazawa University Hospital</name>
+      <address>
+        <city>Kanazawa</city>
+        <state>Ishikawa</state>
+        <zip>920-8641</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kanagawa Cardiovascular and Respiratory Center</name>
+      <address>
+        <city>Yokohama</city>
+        <state>Kanagawa</state>
+        <zip>236-0051</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kanagawa Cancer Center</name>
+      <address>
+        <city>Yokohama</city>
+        <state>Kanagawa</state>
+        <zip>241-8515</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sendai Kousei Hospital</name>
+      <address>
+        <city>Sendai</city>
+        <state>Miyagi</state>
+        <zip>980-0873</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Osaka Habikino Medical Center</name>
+      <address>
+        <city>Habikino</city>
+        <state>Osaka</state>
+        <zip>583-8588</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kansai Medical University Hospital</name>
+      <address>
+        <city>Hirakata</city>
+        <state>Osaka</state>
+        <zip>573-1191</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kishiwada City Hospital</name>
+      <address>
+        <city>Kishiwada</city>
+        <state>Osaka</state>
+        <zip>596-8501</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kindai University Hospital</name>
+      <address>
+        <city>Osaka Sayama-shi</city>
+        <state>Osaka</state>
+        <zip>589 8511</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Hospital Organization Kinki-Chuo Chest Medical Cent</name>
+      <address>
+        <city>Sakai</city>
+        <state>Osaka</state>
+        <zip>5918555</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saitama Cancer Center</name>
+      <address>
+        <city>Kita-Adachi</city>
+        <state>Saitama</state>
+        <zip>362-0806</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Shizuoka Cancer Center</name>
+      <address>
+        <city>Sunto-Gun</city>
+        <state>Shizuoka</state>
+        <zip>411-8777</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Juntendo University Hospital</name>
+      <address>
+        <city>Bunkyo-ku</city>
+        <state>Tokyo</state>
+        <zip>113-8431</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nippon Medical School Hospital</name>
+      <address>
+        <city>Bunkyo-Ku</city>
+        <state>Tokyo</state>
+        <zip>113-8603</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tokyo Met Cancer &amp; Infectious Diseases Center Komagome Hp</name>
+      <address>
+        <city>Bunkyo-ku</city>
+        <state>Tokyo</state>
+        <zip>113-8677</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Cancer Center Hospital</name>
+      <address>
+        <city>Chuo-Ku</city>
+        <state>Tokyo</state>
+        <zip>104-0045</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. Lukes International Hospital</name>
+      <address>
+        <city>Chuo-Ku</city>
+        <state>Tokyo</state>
+        <zip>104-8560</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Cancer Institute Hospital of JFCR</name>
+      <address>
+        <city>Koto-ku</city>
+        <state>Tokyo</state>
+        <zip>135-8550</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yamaguchi-Ube Medical Center</name>
+      <address>
+        <city>Ube</city>
+        <state>Yamaguchi</state>
+        <zip>755-0241</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chiba University Hospital</name>
+      <address>
+        <city>Chiba</city>
+        <zip>260-8677</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Hospital Organization Kyushu Medical Center</name>
+      <address>
+        <city>Fukuoka</city>
+        <zip>810-8563</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kyushu Cancer Center</name>
+      <address>
+        <city>Fukuoka</city>
+        <zip>811-1395</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kyushu University Hospital</name>
+      <address>
+        <city>Fukuoka</city>
+        <zip>812-8582</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kyoto University Hospital</name>
+      <address>
+        <city>Kyoto</city>
+        <zip>606-8507</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nagasaki University Hospital</name>
+      <address>
+        <city>Nagasaki</city>
+        <zip>852-8501</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Niigata University Medical &amp; Dental Hospital</name>
+      <address>
+        <city>Niigata</city>
+        <zip>951-8520</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Niigata Cancer Center Hospital</name>
+      <address>
+        <city>Niigata</city>
+        <zip>951-8566</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Okayama University Hospital</name>
+      <address>
+        <city>Okayama</city>
+        <zip>700-8558</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Osaka City General Hospital</name>
+      <address>
+        <city>Osaka</city>
+        <zip>534-0021</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Osaka International Cancer Institute</name>
+      <address>
+        <city>Osaka</city>
+        <zip>541-8567</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Osaka City University Hospital</name>
+      <address>
+        <city>Osaka</city>
+        <zip>545-8586</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wakayama MedicaL University Hospital</name>
+      <address>
+        <city>Wakayama</city>
+        <zip>641-8510</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chungbuk National University Hospital</name>
+      <address>
+        <city>Cheongju-si</city>
+        <state>Chungcheongbuk-do</state>
+        <zip>28644</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>82432696015</phone>
+    </contact>
+    <investigator>
+      <last_name>Ki Hyeong Lee</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Vincent Hospital</name>
+      <address>
+        <city>Suwon</city>
+        <state>Gyeonggi-do</state>
+        <zip>16247</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ajou University Hospital</name>
+      <address>
+        <city>Suwon</city>
+        <state>Gyeonggi-do</state>
+        <zip>16499</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Gyeong-Sang National University Hospital</name>
+      <address>
+        <city>Jin-ju-si</city>
+        <state>Gyeongsangnam-do</state>
+        <zip>52727</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Samsung Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <state>Korea</state>
+        <zip>06351</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>82234102971</phone>
+    </contact>
+    <investigator>
+      <last_name>Keunchil Park</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Korea University Guro Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <state>Korea</state>
+        <zip>08308</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ulsan University Hospital</name>
+      <address>
+        <city>Ulsan</city>
+        <state>Korea</state>
+        <zip>44033</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Asan Medical Center</name>
+      <address>
+        <city>Songpa-gu</city>
+        <state>Seoul</state>
+        <zip>05505</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>82230103215</phone>
+    </contact>
+    <investigator>
+      <last_name>Sang-We Kim</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul St. Mary's Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>06591</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul Municipal Boramae Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>07061</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>S.C. MedisProf SRL</name>
+      <address>
+        <city>Cluj-Napoca</city>
+        <state>Cluj</state>
+        <zip>400058</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Institutul Oncologic Dr Trestioreanu Bucuresti</name>
+      <address>
+        <city>Bucuresti</city>
+        <state>Sector 2</state>
+        <zip>022328</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Fundacion Son Llatzer</name>
+      <address>
+        <city>Palma de Mallorca</city>
+        <state>Baleares</state>
+        <zip>07198</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Catala d'Oncologia</name>
+      <address>
+        <city>L'Hospitalet de Llobregat</city>
+        <state>Barcelona</state>
+        <zip>08907</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Quiron Madrid</name>
+      <address>
+        <city>Pozuelo de Alarcon</city>
+        <state>Madrid</state>
+        <zip>28223</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Universitaria De Navarra</name>
+      <address>
+        <city>Pamplona</city>
+        <state>Navarra</state>
+        <zip>31008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Vall d'Hebron</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario 12 de Octubre</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Virgen del Rocio</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41013</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Nuestra Señora de Valme</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>46014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario La Fe de Valencia</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46026</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chang Gung Memorial Hospital - Kaohsiung</name>
+      <address>
+        <city>Kaohsiung City</city>
+        <zip>83301</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>E-DA Hospital</name>
+      <address>
+        <city>Kaohsiung</city>
+        <zip>82445</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>88676150011</phone>
+    </contact>
+    <investigator>
+      <last_name>Yu-Feng Wei</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>China Medical University Hospital</name>
+      <address>
+        <city>Taichung City</city>
+        <zip>40447</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Taichung Veterans General Hospital</name>
+      <address>
+        <city>Taichung</city>
+        <zip>40705</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>886423592525</phone>
+    </contact>
+    <investigator>
+      <last_name>Gee-Chen Chang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>National Cheng Kung University Hospital</name>
+      <address>
+        <city>Tainan</city>
+        <zip>704</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Taiwan University Hospital</name>
+      <address>
+        <city>Taipei City</city>
+        <zip>10048</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>886223123456</phone>
+    </contact>
+    <investigator>
+      <last_name>Jin-Yuan Shih</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>MacKay Memorial Hospital</name>
+      <address>
+        <city>Taipei City</city>
+        <zip>10449</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Taipei Veterans General Hospital</name>
+      <address>
+        <city>Taipei</city>
+        <zip>11217</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>886-968-886406</phone>
+    </contact>
+    <investigator>
+      <last_name>Chao-Hua Chiu</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Baskent Adana Educational Hospital</name>
+      <address>
+        <city>Adana</city>
+        <zip>1250</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Trakya University Faculty of Medicine</name>
+      <address>
+        <city>Edirne</city>
+        <zip>22770</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ege University Faculty of Medicine</name>
+      <address>
+        <city>Izmir</city>
+        <zip>35100</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Inonu University Medical Faculty</name>
+      <address>
+        <city>Malatya</city>
+        <zip>44280</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Marsden NHS Trust</name>
+      <address>
+        <city>London</city>
+        <state>Greater London</state>
+        <zip>SW3 6JJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Charing Cross Hospital</name>
+      <address>
+        <city>Chelsea</city>
+        <state>London</state>
+        <zip>W6 8RF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nottingham City Hospital</name>
+      <address>
+        <city>Nottingham</city>
+        <state>Nottinghamshire</state>
+        <zip>NG5 1PB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Greece</country>
+    <country>Hong Kong</country>
+    <country>Italy</country>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>Romania</country>
+    <country>Spain</country>
+    <country>Taiwan</country>
+    <country>Turkey</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.lillytrialguide.com/EN/studies/cancer/jvcy</url>
+    <description>Click here for more information about this study: A Study of Ramucirumab (LY3009806) in Combination With Erlotinib in Participants With EGFR Mutation-Positive Metastatic NSCLC</description>
+  </link>
+  <verification_date>October 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>April 3, 2015</study_first_submitted>
+  <study_first_submitted_qc>April 3, 2015</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 8, 2015</study_first_posted>
+  <last_update_submitted>October 1, 2018</last_update_submitted>
+  <last_update_submitted_qc>October 1, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 2, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Gefitinib</mesh_term>
+    <mesh_term>Ramucirumab</mesh_term>
+    <mesh_term>Osimertinib</mesh_term>
+    <mesh_term>Erlotinib Hydrochloride</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
