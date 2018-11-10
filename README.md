@@ -6,11 +6,11 @@
 
 ## API Documentation
 
-# What is <this software>?
+# What is TriFECTA?
 
-Overview Diagram
+ TriFECTA is a curation tools for clinical trials
 
-# How to use <this software>
+# How to use TriFECTA
 
 # Software Workflow Diagram
 
@@ -23,7 +23,7 @@ We provide two options for installing <this software>: Docker or directly from G
 
 ### Docker
 
-The Docker image contains <this software> as well as a webserver and FTP server in case you want to deploy the FTP server. It does also contain a web server for testing the <this software> main website (but should only be used for debug purposes).
+The Docker image contains <this software> as well as a webserver and FTP server in case you want to deploy the FTP server. It does also contain a webOverview server for testing the <this software> main website (but should only be used for debug purposes).
 
 1. `docker pull ncbihackathons/<this software>` command to pull the image from the DockerHub
 2. `docker run ncbihackathons/<this software>` Run the docker image from the master shell script
