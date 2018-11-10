@@ -1,0 +1,1293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 03, 2018</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02401542</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B-701-U21</org_study_id>
+    <secondary_id>2017-001319-36</secondary_id>
+    <nct_id>NCT02401542</nct_id>
+  </id_info>
+  <brief_title>Dose Escalation, Expansion Study of Vofatamab (B-701) in Treatment of Locally Advanced or Metastatic Urothelial Cell Carcinoma</brief_title>
+  <acronym>FIERCE-21</acronym>
+  <official_title>A Dose Escalation, Expansion Study of Vofatamab (B-701) Alone, Plus Docetaxel, or Versus Docetaxel in Subjects With Locally Advanced or Metastatic Urothelial Cell Carcinoma Who Have Relapsed After, or Are Refractory to Standard Therapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>BioClin Therapeutics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>BioClin Therapeutics, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 1/2(b), sequential, dose escalation, open-label, randomized expansion,
+      multicenter, efficacy and safety study of vofatamab alone or in combination with docetaxel,
+      or versus docetaxel in FGFR3 mutant/fusion subjects with Stage IV, locally advanced or
+      metastatic UCC who have relapsed after, or are refractory to at least one prior line of
+      chemotherapy. This study is divided into 3 phases: Phase 1b (Cohort 1), Phase 2 (Cohorts 2
+      and 3), and Phase 2b (Monotherapy Expansion Phase and Randomized Phase).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a Phase 1/2(b), sequential, dose escalation, open-label, randomized expansion,
+      multicenter, efficacy and safety study of vofatamab alone or in combination with docetaxel,
+      or versus docetaxel in FGFR3 mutant/fusion subjects with Stage IV, locally advanced or
+      metastatic UCC who have relapsed after, or are refractory to at least one prior line of
+      chemotherapy. Vofatamab is a novel monoclonal antibody specific for fibroblast growth factor
+      receptor 3 (FGFR3) that is being developed to target FGFR3-positive tumors.
+
+      This study is divided into 3 phases: Phase 1b (Cohort 1), Phase 2 (Cohorts 2 and 3), and
+      Phase 2b (Monotherapy Expansion Phase and Randomized Phase).
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>June 2015</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Primary Efficacy Outcome: Progression Free Survival (PFS)</measure>
+    <time_frame>3-4 years</time_frame>
+    <description>Efficacy of vofatamab plus docetaxel, compared with docetaxel plus placebo, and vofatamab alone as measured by PFS; measured from randomization to first occurrence of disease progression (per RECIST v1.1) or death, whichever occurs first. A patient has had to receive at least one vofatamab dose.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Secondary Efficacy Outcome: Overall Survival (OS)</measure>
+    <time_frame>up to 3-4 years</time_frame>
+    <description>Efficacy of vofatamab plus docetaxel, compared with docetaxel plus placebo, and vofatamab alone as measured by OS; measured from randomization to death. A patient has had to receive at least one vofatamab dose.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy Outcome - Objective Response Rate (ORR)</measure>
+    <time_frame>up to 3-4 years</time_frame>
+    <description>Efficacy of vofatamab plus docetaxel, compared with docetaxel plus placebo, and vofatamab alone as measured by ORR; defined as the percentage of subjects who have baseline measurable disease and who achieve a best response of either complete response (CR) or partial response (PR) as assessed by the investigator using RECIST 1.1 criteria.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Locally Advanced or Metastatic Urothelial Cell Carcinoma</condition>
+  <condition>Urinary Bladder Disease</condition>
+  <condition>Urological Diseases</condition>
+  <arm_group>
+    <arm_group_label>Vofatamab plus docetaxel</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>IV infusion of docetaxel, 75 mg/m2, followed by IV infusion of vofatamab, 25 mg/kg, on day one of each 21-day cycle. One additional IV infusion of vofatamab (25 mg/kg) given on Day 8 of Cycle 1.
+Dosing with vofatamab and docetaxel will continue in each patient until disease progression, unacceptable toxicity, death, or study exit, including withdrawal of patient consent or study termination. Docetaxel treatment beyond 12 cycles of therapy may be considered at the discretion of the treating investigator and Medical Monitor.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo plus docetaxel</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>IV infusion of docetaxel, 75 mg/m2, followed by IV infusion of placebo on day one of each 21-day cycle.
+One additional IV infusion of placebo given on Day 8 of Cycle 1. Dosing of docetaxel and placebo will continue in each patient until disease progression, unacceptable toxicity, death, or study exit, including withdrawal of patient consent or study termination. Docetaxel treatment beyond 12 cycles of therapy may be considered at the discretion of the treating investigator and Medical Monitor</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Vofatamab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>IV infusion vofatamab, 25 mg/kg on day one each 21-day cycle. One additional IV infusion of vofatamab (25 mg/kg) given on Day 8 of Cycle 1.
+Dosing of vofatamab will continue in each patient until disease progression, unacceptable toxicity, death, or study exit, including withdrawal of patient consent or study termination.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vofatamab</intervention_name>
+    <arm_group_label>Vofatamab plus docetaxel</arm_group_label>
+    <arm_group_label>Vofatamab</arm_group_label>
+    <other_name>B-701</other_name>
+    <other_name>MFGR1877S</other_name>
+    <other_name>R3Mab</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Docetaxel</intervention_name>
+    <arm_group_label>Vofatamab plus docetaxel</arm_group_label>
+    <arm_group_label>Placebo plus docetaxel</arm_group_label>
+    <other_name>Docefrez</other_name>
+    <other_name>Taxotere</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <arm_group_label>Placebo plus docetaxel</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Disease Specific Inclusion Criteria:
+
+          1. Stage IV, locally advanced or metastatic (T4b, any N; or any T, N2-3) urothelial
+             bladder cancer or TCC arising in another location of the urinary tract, including
+             urethra, ureter, and renal pelvis
+
+          2. Histological or cytological diagnosis of UCC.
+
+          3. Relapsed after or are refractory to at least one prior line of chemotherapy which has
+             not included a taxane (with the exception of Cohort 3 of Phase 2 and Phase 2b
+             Monotherapy Expansion of Phase 2b which will allow the enrollment of patients with
+             prior treatment with a taxane)
+
+          4. Subjects must have received at least one prior chemotherapeutic regimen (at least one
+             cycle each) for advanced or metastatic/recurrent disease, of which at least one
+             regimen included a platinum agent (unless contraindicated).
+
+          5. Prior neoadjuvant or adjuvant chemotherapy (without a taxane, except Cohort 3 of Phase
+             2 and Phase 2b Monotherapy Expansion, which will allow the enrollment of subjects with
+             prior treatment with a taxane) is permitted and will not be counted as first-line
+             chemotherapy, as long as the subject has not progressed within 12 months of the last
+             dose.
+
+          6. Measurable disease according to Response Evaluation Criteria in Solid Tumors Version
+             1.1 (RECIST v1.1)
+
+        Phase 2 and Phase 2b Specific Inclusion Criteria:
+
+          1. Patient must be confirmed to have a FGFR3 genomic alteration at the time of
+             documentation of advanced disease.
+
+          2. Relapsed after or are refractory to an immune checkpoint inhibitor. This inclusion
+             criterion does not apply if the checkpoint inhibitor is contraindicated.
+
+        Main Exclusion Criteria:
+
+          -  Prior anti-cancer therapy within 2 weeks prior to Cycle 1, Day 1
+
+          -  Prior treatment with an inhibitor that is targeted primarily to FGFRs
+
+          -  Clinically significant comorbid medical conditions or lab abnormalities
+
+          -  History of major bleeding (requiring a blood transfusion ≥ 2 units) not related to a
+             tumor within the past 12 months
+
+          -  History of clinically significant coagulation or platelet disorder in the past 12
+             months
+
+          -  Currently receiving anticoagulation treatment
+
+          -  Incomplete healing from wounds from prior surgery
+
+          -  Known active bacterial, viral, fungal, mycobacterial, parasitic, or other infection at
+             screening
+
+          -  Presence of positive test results for Hepatitis B or Hepatitis C
+
+          -  Known history of human immunodeficiency virus (HIV) seropositive status
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>BioClin Therapeutics</last_name>
+    <role>Study Chair</role>
+    <affiliation>Sponsor GmbH</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>BioClin Therapeutics</last_name>
+    <phone>925-413-6140</phone>
+    <email>clin-ops@bioclintherapeutics.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Werner Gladdines</last_name>
+    <email>wgladdines@bioclintherapeutics.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Gilbert</city>
+        <state>Arizona</state>
+        <zip>85234</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Goodyear</city>
+        <state>Arizona</state>
+        <zip>85338</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>Clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Reaserach Site</name>
+      <address>
+        <city>Fort Wayne</city>
+        <state>Indiana</state>
+        <zip>46845</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Canton</city>
+        <state>Ohio</state>
+        <zip>44718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390-9110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Olomouc</city>
+        <zip>77900</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Prague</city>
+        <zip>12808</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Ancona</city>
+        <zip>60126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Catania</city>
+        <zip>95123</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Milan</city>
+        <zip>20132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Milan</city>
+        <zip>20133</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Milan</city>
+        <zip>20141</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Modena</city>
+        <zip>41124</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Napoli</city>
+        <zip>80131</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Negrar</city>
+        <zip>37024</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Siena</city>
+        <zip>53100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Gwangju</city>
+        <zip>61469</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Incheon</city>
+        <zip>405-760</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Seongnam-si</city>
+        <zip>13620</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>02841</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>03080</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>03722</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>05505</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>06351</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Badalona</city>
+        <zip>08916</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08003</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08026</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08908</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <phone>+1-925-413-6140</phone>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Granada</city>
+        <zip>18014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Lugo</city>
+        <zip>27003</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28033</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28046</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28050</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Oviedo</city>
+        <zip>33011</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Pamplona</city>
+        <zip>31008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Vigo</city>
+        <zip>36204</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Uppsala</city>
+        <zip>751 85</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kaohsiung</city>
+        <zip>81362</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kaohsiung</city>
+        <zip>83301</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Taichung</city>
+        <zip>40447</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Taichung</city>
+        <zip>435</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Tainan</city>
+        <zip>704</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Taipei</city>
+        <zip>110</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Taipei</city>
+        <zip>11217</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Taoyuan</city>
+        <zip>333</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Adana</city>
+        <zip>01330</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Ankara</city>
+        <zip>06590</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Antalya</city>
+        <zip>07059</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Bursa</city>
+        <zip>16059</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Edirne</city>
+        <zip>22030</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>İstanbul</city>
+        <zip>34732</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>İzmir</city>
+        <zip>35340</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Malatya</city>
+        <zip>44280</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>London</city>
+        <zip>SW36JJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Preston</city>
+        <zip>PR29HT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BioClin Study Team</last_name>
+      <email>clin-ops@bioclintherapeutics.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Czechia</country>
+    <country>Italy</country>
+    <country>Korea, Republic of</country>
+    <country>Spain</country>
+    <country>Sweden</country>
+    <country>Taiwan</country>
+    <country>Turkey</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2018</verification_date>
+  <!-- For several months we've had both old and new date name tags                             -->
+  <!-- Now, the old date names have been dropped.                                               -->
+  <!-- The new date name replacements are:                                                      -->
+  <!--     OLD (gone)                                        NEW (in use)                       -->
+  <!--   lastchanged_date                         becomes   last_update_submitted               -->
+  <!--   firstreceived_date                       becomes   study_first_submitted               -->
+  <!--   firstreceived_results_date               becomes   results_first_submitted             -->
+  <!--   firstreceived_results_disposition_date   becomes   disposition_first_submitted         -->
+  <study_first_submitted>March 16, 2015</study_first_submitted>
+  <study_first_submitted_qc>March 27, 2015</study_first_submitted_qc>
+  <study_first_posted type="Estimate">March 30, 2015</study_first_posted>
+  <last_update_submitted>September 25, 2018</last_update_submitted>
+  <last_update_submitted_qc>September 25, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 27, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Urothelial Cell Carcinoma</keyword>
+  <keyword>UCC</keyword>
+  <keyword>bladder cancer</keyword>
+  <keyword>vofatamab</keyword>
+  <keyword>FGFR3</keyword>
+  <keyword>invasive bladder cancer</keyword>
+  <keyword>targeted therapy</keyword>
+  <keyword>Transitional Cell Carcinoma</keyword>
+  <keyword>TCC</keyword>
+  <keyword>Phase 2</keyword>
+  <keyword>second line therapy</keyword>
+  <keyword>monoclonal antibody</keyword>
+  <keyword>docetaxel</keyword>
+  <keyword>combination therapy</keyword>
+  <keyword>Phase 1</keyword>
+  <keyword>monotherapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Urinary Bladder Diseases</mesh_term>
+    <mesh_term>Urologic Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Docetaxel</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
