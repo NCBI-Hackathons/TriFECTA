@@ -8,6 +8,7 @@ $xml = new XML::Simple;
 
 my %otree;
 my %diags;
+my $header =<ONCOTREE>;
 open ONCOTREE, "<Unique_Synonyms.csv" or die $!;
 while (my $line = <ONCOTREE>) {
     chomp($line);
@@ -16,27 +17,12 @@ while (my $line = <ONCOTREE>) {
     $diag{$diagnosis} = $oncocode;
 }
 open DIAG, "<diagnosis.txt" or die $!;
+my $head = <DIAG>;
 while (my $line = <DIAG>) {
     chomp($line);
     my ($oncocode,$diagnosis) = split(/\t/,$line);
     $diagnosis =~ s/\"//g;
     push @{$otree{$oncocode}}, $diagnosis;
-}
-open GENE, "<gene_info.human.txt" or die $!;
-my $header = <GENE>;
-chomp($header);
-my @cols = split(/\t/,$header);
-while (my $line = <GENE>) {
-    chomp($line);
-    my @row = split(/\t/,$line);
-    my %hash;
-    foreach (0..$#row) {
-	$hash{$cols[$_]} = $row[$_];
-    }
-    $genename{$hash{Symbol}} = $hash{Symbol};
-    foreach (split(/\|/,$hash{Synonyms})) {
-	$genename{$_} = $hash{Symbol};
-    }
 }
 
 my @xmlfiles = `ls /project/hackathon/hackers11/shared/NCTxml/*.xml`;
@@ -61,7 +47,9 @@ foreach $file (@xmlfiles) {
       }
       foreach $ocode (keys %otree) {
 	  foreach $diag (@{$otree{$ocode}}) {
-	      if ($diag =~ m/$cond/) {
+	      if ($diag =~ m/$cond/i) {
+		  $oncotree{$ocode} = 1 if (length($ocode) > 1) ;
+	      }elsif ($cond =~ m/$diag/i) {
 		  $oncotree{$ocode} = 1 if (length($ocode) > 1) ;
 	      }
 	  }
