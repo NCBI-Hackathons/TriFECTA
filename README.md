@@ -12,7 +12,8 @@
 
 # How to use TriFECTA
 
-# Software Workflow Diagram
+# Workflow Diagram
+![alt text](FlowChart.jpg)
 
 # File structure diagram 
 #### _Define paths, variable names, etc_
