@@ -2,7 +2,7 @@
 
 ## TRIal -  Fantastical Emporium of Clinical Trial Assortments
 
-## Awesome Logo
+[logo](LogoTriFECTA.jpg)
 
 ## API Documentation
 
